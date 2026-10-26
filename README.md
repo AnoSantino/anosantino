@@ -1,84 +1,103 @@
 <div align="center">
 
-<h3><code>anouar@github:~$ whoami</code></h3>
-
+<h3><code>anouar@github ~ $ whoami</code></h3>
 <table>
 <tr>
-<td valign="top" width="46%"><img src="./anouar-ascii.svg" width="100%" alt="Anouar EL KHABOTE — ASCII portrait based on my photo" /></td>
-<td valign="top" width="54%"><img src="./info-card.svg" width="100%" alt="Anouar EL KHABOTE — role, technology stack and highlights" /></td>
+<td valign="top"><img src="./anouar-ascii.svg" width="370" alt="Anouar EL KHABOTE — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Anouar EL KHABOTE — role, stack and highlights" /></td>
 </tr>
 </table>
 
 <br>
 
-<h3><code>anouar@github:~$ ./about-me.sh</code></h3>
+<h3><code>anouar@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Anouar's GitHub contribution graph" />
 
-# Hey, I'm [Anouar EL KHABOTE](https://github.com/anosantino)
+<br><br>
 
-**Software Engineer | .NET · C# · SQL Server · Azure DevOps**
+# Hey, I'm [Anouar EL KHABOTE](https://github.com/anosantino) 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://anouarelkhabote.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-AnoSantino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anosantino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-el-khabote/)
+<samp><b>Software Engineer · .NET · C# · SQL Server · Azure DevOps</b></samp>
+
+<br><br>
+
+<a href="https://anouarelkhabote.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anouar-el-khabote/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/anosantino"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://pharmadaba.ma/"><img alt="PharmaDaba" src="https://img.shields.io/badge/PharmaDaba-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-## `anouar@github:~$ ./whoami.sh`
+## `anouar@github ~ $ cat about.md`
 
-I'm a software engineer with **7+ years of experience** across enterprise applications, business platforms, and IT projects. I work across the software lifecycle—from functional analysis and design to development, testing, deployment, and production support.
+Software engineer with **7+ years** on enterprise applications, business platforms and IT projects.
+I cover the full lifecycle: functional analysis, design, development, testing, deployment and production support.
 
-I enjoy connecting **business needs with technical implementation**, troubleshooting production issues, and delivering practical, maintainable solutions.
+What I like most: turning **business needs into working software**, tracking down production issues, and shipping solutions that stay easy to maintain.
 
-## `anouar@github:~$ cat focus-areas.txt`
+## `anouar@github ~ $ ls ./focus-areas`
 
-- 🧩 **Backend & enterprise applications** — C#, .NET Framework, ASP.NET MVC/WebForms, .NET Core, REST APIs
-- 🗄️ **Data & databases** — SQL Server, T-SQL, Oracle, Entity Framework, LINQ
-- 🔄 **Business process management** — Pega BPM, business rules, functional analysis
-- 🔌 **Integration & reporting** — Talend, Tableau, BIRT
-- ☁️ **Cloud & DevOps** — Microsoft Azure, Azure DevOps, Git, IIS, CI/CD
-- 🧪 **Delivery & reliability** — testing, production support, debugging, deployment
+| | Area | What I work with |
+|:-:|---|---|
+| 🧩 | **Backend & enterprise apps** | C#, .NET Framework, .NET Core, ASP.NET MVC / WebForms, REST APIs |
+| 🗄️ | **Data** | SQL Server, T-SQL, Oracle, Entity Framework, LINQ |
+| 🔄 | **Business process** | Pega BPM, business rules, functional analysis |
+| 📊 | **Integration & reporting** | Talend, Tableau, BIRT |
+| ☁️ | **Cloud & DevOps** | Microsoft Azure, Azure DevOps, Git, IIS, CI/CD |
+| 🧪 | **Delivery & reliability** | Testing, debugging, deployment, production support |
 
-## `anouar@github:~$ ./toolbox.sh`
+## `anouar@github ~ $ ./toolbox.sh`
 
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Pega" src="https://img.shields.io/badge/Pega-0076A8?style=flat-square&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="Talend" src="https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logoColor=white" />
+  <img alt="Pega" src="https://img.shields.io/badge/Pega-0076A8?style=flat-square" />
+  <img alt="Talend" src="https://img.shields.io/badge/Talend-FF6D70?style=flat-square" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" />
 </p>
 
-## `anouar@github:~$ ls ./projects`
+## `anouar@github ~ $ ls ./projects`
 
-### 💊 PharmaDaba
-A personal project focused on helping people find on-duty pharmacies in Morocco.
+### 💊 [PharmaDaba](https://pharmadaba.ma/)
+Find on-duty pharmacies in Morocco, fast, from your phone.
 
-- 📍 Find pharmacies and view their location
-- 🧭 Open directions using mapping services
-- 🔗 [Visit the project](https://pharmadaba.ma/)
+- 📍 See open pharmacies on a map
+- 🧭 One tap to get directions in your maps app
+- 🆓 Free to use
 
-More about my background and work: [anouarelkhabote.vercel.app](https://anouarelkhabote.vercel.app/).
+More about my background: [anouarelkhabote.vercel.app](https://anouarelkhabote.vercel.app/)
 
-## `anouar@github:~$ ./certifications.sh`
+## `anouar@github ~ $ ./certifications.sh`
 
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: DevOps Engineer Expert
+- 🏅 **Microsoft Certified:** Azure Developer Associate
+- 🏅 **Microsoft Certified:** DevOps Engineer Expert
 
-## `anouar@github:~$ ./currently.sh`
+## `anouar@github ~ $ ./currently.sh`
 
-- Improving and maintaining enterprise applications
-- Exploring better ways to connect business requirements, software quality, and reliable delivery
-- Open to exchanging ideas and collaborating on practical software projects
+- 🔧 Improving and maintaining enterprise applications
+- 🤝 Connecting business requirements, software quality and reliable delivery
+- 💬 Open to exchanging ideas and working together on practical projects
 
-## `anouar@github:~$ exit`
+<br>
 
-Thanks for stopping by. Feel free to explore my repositories or connect with me.
+<div align="center">
 
-<sub>Build useful things · Solve real problems · Bridge business and technology</sub>
+<sub><code>anouar@github ~ $ exit</code> · Build useful things · Solve real problems · Bridge business and technology</sub>
+
+</div>
+
+<!--
+  Regenerate the art:
+    python scripts/prep_photo.py photo.jpg source-prepped.png   # needs rembg, opencv-python, pillow
+    python scripts/make_ascii_svg.py source-prepped.png anouar-ascii.svg
+    python scripts/make_info_card.py
+  The contribution graph refreshes daily via .github/workflows/update-readme.yml
+-->
